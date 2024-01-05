@@ -55,7 +55,7 @@ Em outubro houve uma redução de custos devido a menor quantidade de funcionár
 
 A única fonte de receitas da escola eram as mensalidades. Os valores tabelados variam de acordo com o número de horas que o aluno passa na escola. No gráfico abaixo comparamos a tabela de mensalidades proposta para o ano de 2023 com os valores efetivamente praticados no mês de agosto.
 
-![gráfico de mensalidades em função das horas de permanência na escola](/imagens/plano_de_mensalidades_antigo.png)
+![gráfico de mensalidades em função das horas de permanência na escola](/imagens/plano_de_mensalidades_antigo.png?raw=true)
 
 Devido aos descontos dados pela gestão anterior, os valores de mensalidade praticados ficaram bem abaixo do esperado. Além disso, não houve coerência na aplicação de descontos, resultando em pagamentos maiores para um menor número de horas na escola. Os responsáveis financeiros, ficando cientes da situação via grupos de WhatsApp, solicitaram reuniões com o novo gestor, que acabou por conceder mais descontos na tentativa de corrigir a situação.
 
