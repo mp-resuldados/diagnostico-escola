@@ -5,6 +5,7 @@
 ## Introdução
 
 Uma escola de período integral recém comprada prestes a fechar as portas solicitou uma avaliação das finanças para guiar uma tomada de decisão: fechar, vender ou investir.
+Neste trabalho podemos ver como uma decisão baseada em dados pode afetar a saúde financeira de uma pequena empresa.
 
 
 ## Objetivo
@@ -31,7 +32,7 @@ Os valores da tabela de mensalidades não foram praticados desde o início do an
 
 ### Despesas
 
-A partir dos extratos bancários obtivemos o limite superior de gastos mensais referentes às despesas da escola. Seguem os dados de gastos (fixos e variáveis) e número de alunos por mês.
+A partir dos extratos bancários obtivemos o limite superior de gastos mensais referentes às despesas da escola. Seguem os dados de gastos (fixos e variáveis) e número N de alunos por mês.
 
 | MESES | VALORES         | N  |
 | ----- | --------------- | -- |
@@ -41,15 +42,31 @@ A partir dos extratos bancários obtivemos o limite superior de gastos mensais r
 | 9     |  R$   64.923,11 | 33 |
 | 10    |  R$   55.771,65 | 33 |
 
-Notamos uma perda de 3 alunos entre julho e agosto. Verificamos que pertenciam a uma mesma família. Supomos que a troca de gestão tenha gerado alguma insegurança ou insatisfação, culminando no encerramento dos 3 contratos. Notamos uma segunda fuga de alunos entre os meses de agosto e setembro. Verificamos que ocorreu a demissão de um professor, que prontamente se empregou em outra escola, incorrendo em uma migração de sete alunos. A demissão ocorreu com base na necessidade de corte de gastos, sem considerar as consequências do ato.
+Notamos uma perda de 3 alunos entre julho e agosto. Verificamos que pertenciam a uma mesma família. Supomos que a troca de gestão tenha gerado alguma insegurança ou insatisfação, culminando no encerramento dos 3 contratos. Notamos uma segunda fuga de alunos entre os meses de agosto e setembro. Verificamos que ocorreu a demissão de um professor, que prontamente se empregou em outra escola, incorrendo em uma migração de sete alunos. A demissão ocorreu com base na necessidade de corte de gastos, sem considerar as consequências do ato. 
 
 Notamos uma elevação significativa dos gastos de junho para julho. Verificamos que, na tentativa de melhorar a arrecadação da escola, foi feita uma festa junina. Dada a falta de planejamento prévio, a festa gerou um prejuízo de mais de 7 mil reais.
 
-De julho para agosto o gasto se manteve alto devido às demissões de diversos funcionários, dentre ele, o professor citado acima. Parte das recisões foi paga no mês de agosto e parte foi paga no mês de setembro.
+De julho para agosto o gasto se manteve alto devido às demissões de diversos funcionários, dentre eles, o professor citado acima. Parte das recisões foi paga no mês de agosto e parte foi paga no mês de setembro.
 
 Em outubro houve uma redução de custos devido a menor quantidade de funcionário e de alunos (redução dos gastos variáveis).
 
 
 ### Receitas
 
-A única fonte de receitas da escola eram as mensalidades. Os valores tabelados variam de acordo com o número de horas que o aluno passa na escola. No gráfico abaixo comparamos a tabela de mensalidades proposta para o ano de 2023 com os valores efetivamente praticados.
+A única fonte de receitas da escola eram as mensalidades. Os valores tabelados variam de acordo com o número de horas que o aluno passa na escola. No gráfico abaixo comparamos a tabela de mensalidades proposta para o ano de 2023 com os valores efetivamente praticados no mês de agosto.
+
+![gráfico de mensalidades em função das horas de permanência na escola](imagens/plano_de_mensalidades_antigo.png)
+
+Devido aos descontos dados pela gestão anterior, os valores de mensalidade praticados ficaram bem abaixo do esperado. Além disso, não houve coerência na aplicação de descontos, resultando em pagamentos maiores para um menor número de horas na escola. Os responsáveis financeiros, ficando cientes da situação via grupos de WhatsApp, solicitaram reuniões com o novo gestor, que acabou por conceder mais descontos na tentativa de corrigir a situação.
+
+Na tabela abaixo, vemos o resultado das receitas de mensalidade mês a mês, onde N é o número de alunos. Como não havia controle de inadimplência, os dados de receita foram calculados como se a inadimplência fosse 0.
+
+| MESES | VALORES         | N  |
+| ----- | --------------- | -- |
+| 6     |  R$   62.409,18 | 43 |
+| 7     |  R$   62.409,18 | 43 |
+| 8     |  R$   57.728,49 | 40 |
+| 9     |  R$   40.786,87 | 33 |
+| 10    |  R$   40.786,87 | 33 |
+
+Vemos uma clara redução de receita em função da redução de alunos. A informação não óbvia contida na tabela é a redução de receita devido aos descontos. Essa análie foi feita comparando os valores de mensalidade de agosto e setembro aluno por aluno. A receita total da escola diminuiu em quase 30% entre agosto e setembro. Desse percentual, 40% foi devido aos descontos dados e 60% devido à redução no número de alunos.
