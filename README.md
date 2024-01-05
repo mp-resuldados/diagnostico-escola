@@ -1,4 +1,4 @@
-# Cálculo de mensalidades e diagnóstico financeiro de uma escola
+# Diagnóstico financeiro de uma escola
 
 
 
@@ -8,10 +8,12 @@ Uma escola de período integral recém comprada prestes a fechar as portas solic
 Neste trabalho podemos ver como uma decisão baseada em dados pode afetar a saúde financeira de uma pequena empresa.
 
 
-## Objetivo
+## Objetivos
 
-Investigar a causa do prejuízo financeiro dos últimos 5 meses (junho a outubro de 2023) e calcular as mensalidades para o ano seguinte (2024) de forma a cobrir os custos, permitir uma recuperação financeira e manter valores atrativos para ganhar da concorrência.
-
+- investigar as possíveis causas do prejuízo financeiro dos últimos 5 meses (junho a outubro de 2023);
+- criar um plano de recuperação financeira através do cálculo das mensalidades para o ano seguinte (2024) de forma a cobrir os custos e manter valores atrativos para ganhar da concorrência;
+- preparar a escola para uma possível venda;
+- criar um plano para atrair investidores.
 
 ## Dados
 
@@ -34,7 +36,7 @@ Os valores da tabela de mensalidades não foram praticados desde o início do an
 
 A partir dos extratos bancários obtivemos o limite superior de gastos mensais referentes às despesas da escola. Seguem os dados de gastos (fixos e variáveis) e número N de alunos por mês.
 
-| MESES | VALORES         | N  |
+| MESES | DESPESAS        | N  |
 | ----- | --------------- | -- |
 | 6     |  R$   58.136,22 | 43 |
 | 7     |  R$   73.274,51 | 43 |
@@ -61,7 +63,7 @@ Devido aos descontos dados pela gestão anterior, os valores de mensalidade prat
 
 Na tabela abaixo, vemos o resultado das receitas de mensalidade mês a mês, onde N é o número de alunos. Como não havia controle de inadimplência, os dados de receita foram calculados como se a inadimplência fosse 0.
 
-| MESES | VALORES         | N  |
+| MESES | RECEITAS        | N  |
 | ----- | --------------- | -- |
 | 6     |  R$   62.409,18 | 43 |
 | 7     |  R$   62.409,18 | 43 |
@@ -70,3 +72,9 @@ Na tabela abaixo, vemos o resultado das receitas de mensalidade mês a mês, ond
 | 10    |  R$   40.786,87 | 33 |
 
 Vemos uma clara redução de receita em função da redução de alunos. A informação não óbvia contida na tabela é a redução de receita devido aos descontos. Essa análie foi feita comparando os valores de mensalidade de agosto e setembro aluno por aluno. A receita total da escola diminuiu em quase 30% entre agosto e setembro. Desse percentual, 40% foi devido aos descontos dados e 60% devido à redução no número de alunos.
+
+
+### Receitas x despesas - Lucro ou prejuízo?
+
+Comparando os dados de receitas e despesas apresentados no gráfico abaixo, vemos que o mês de junho apresentou um fechamento positivo. Os demais meses acumularam um prejuízo de quase 58 mil reais. 
+
