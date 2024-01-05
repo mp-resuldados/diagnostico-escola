@@ -9,7 +9,7 @@ Uma escola de período integral recém comprada prestes a fechar as portas solic
 
 ## Objetivo
 
-Investigar a causa do prejuízo financeiro dos últimos 5 meses (junho a outubro de 2023) e calcular as mensalidades para o ano seguinte de forma a cobrir os custos, permitir uma recuperação financeira e manter valores atrativos para ganhar da concorrência.
+Investigar a causa do prejuízo financeiro dos últimos 5 meses (junho a outubro de 2023) e calcular as mensalidades para o ano seguinte (2024) de forma a cobrir os custos, permitir uma recuperação financeira e manter valores atrativos para ganhar da concorrência.
 
 
 ## Dados
@@ -52,4 +52,4 @@ Em outubro houve uma redução de custos devido a menor quantidade de funcionár
 
 ### Receitas
 
-A única fonte de receitas da escola eram as mensalidades. 
+A única fonte de receitas da escola eram as mensalidades. Os valores tabelados variam de acordo com o número de horas que o aluno passa na escola. No gráfico abaixo comparamos a tabela de mensalidades proposta para o ano de 2023 com os valores efetivamente praticados.
