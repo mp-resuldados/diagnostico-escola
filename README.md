@@ -27,7 +27,6 @@ Os dados disponíveis para a avaliação foram:
 
 Não havia dados financeiros disponíveis dos meses anteriores a junho. Dois programas de contabilidade estavam sendo usados pela nova gestão, porém os registros não estavam sendo feitos de forma adequada. As movimentações pessoais e empresariais do novo dono não estavam devidamente identificadas e separadas. Para conhecer as despesas da escola, classificamos os dados de movimentação bancária como gastos pessoais ou gastos da escola. Os dados que não conseguimos classificar foram computados como gastos da escola com a finalidade de obter um limite superior de gastos.
 
-
 Os valores da tabela de mensalidades não foram praticados desde o início do ano letivo. A gestão anterior à compra forneceu descontos de mensalidades indiscriminadamente e sem alteração formal  no contrato. Os dados de mensalidades efetivamente pagas pelos alunos foram retirados dos extratos bancários, comprovantes de pix e registros informais no computador da escola. Não havia nenhum controle da taxa de inadimplência.
 
 
@@ -97,6 +96,10 @@ Antes de qualquer tomada de decisão em negócios, uma avaliação criteriosa de
 
 Além das más decisões da nova gestão, verificamos que outro entrave à lucratividade do negócio era a falta de rigor em seguir a tabela de mensalidades calculada para o ano letivo. Se a tabela para 2023 tivesse sido praticada, ao invés de um saldo negativo de mais de 62 mil reais, a escola poderia ter tido um saldo positivo mais de 23 mil reais  nesses 5 meses analisados, mesmo considerando as decisões ruins.
 
+Durante esses meses, o custo médio de um aluno foi perto de R$ 1700 enquanto a mensalidade paga foi em média R$ 1376. Se a tabela tivesse sendo praticada, ao invés do prejuízo de R$ 324 por mês por aluno, a escola poderia ter lucrado R$ 122 por mês por aluno. 
+
+De posse desses dados, calculamos o número mínimo de alunos para a escola estar em equilíbrio financeiro (receitas = despesas, desconsiderando o pró-labore dos sócio). Considerando todos os meses estudados, a escola precisaria de 42 alunos para estar em equilíbrio financeiro, mesmo com as mensalidades defasadas. Desconsiderando os gastos com a festa e as demissões sem justa causa, o número de alunos para a escola estar em equilíbrio financeiro cai para 37. Considerando um cenário onde a tabela de mensalidades estivesse sendo devidamente praticada, o ponto de equilíbrio acontece com um número de alunos entre 28 e 32, representando em torno de 30% da capacidade máxima da escola.
+
 Com quantidade de alunos insuficiente para cobrir os custos, o prejuízo nos meses seguintes seria inevitável. Calculamos, então o valor necessário de aporte financeiro a se fazer para segurar a empresa até o fim do ano letivo. O valor foi conseguido através de um empréstimo.
 
 O papel da MP-resuldados foi entender todo o ocorrido ao longo dos meses e apresentar os dados, fatos e como eles se relacionam ao gestor. Os dados contam a história e os números não mentem! Como resultado dessa primeira análise, aconselhamos o dono a criar o hábito de fazer um rigoroso acompanhamento das finanças do seu negócio e tomar sempre decisões baseadas em dados.
@@ -113,12 +116,14 @@ Mantendo a escola em funcionamento até o fim do ano letivo, ficaria aberta a po
 
 ## Conclusão
 
-Antes de comprar um negócio, certifique-se da saúde financeira da empresa está em dia, se a possibilidade de lucro está dentro das suas expectativas e se você tem vontade de estar a frente do negócio. Se não sabe como fazer, consulte um especialista, analise os dados apesentados e tire suas próprias conclusões antes de investir seu dinheiro. 
-Tenha em mente que, mesmo um negócio consolidado no mercado pode sofrer revezes em uma troca de gestão. Tenha sempre uma reserva financeira para lidar com os imprevistos!
+Antes de comprar um negócio, certifique-se da saúde financeira da empresa está em dia, se a possibilidade de lucro está dentro das suas expectativas e se você tem vontade de estar a frente do negócio. Se não sabe como fazer, consulte um especialista, analise os dados apesentados e tire suas próprias conclusões antes de investir seu dinheiro. Tenha em mente que, mesmo um negócio consolidado no mercado pode sofrer revezes em uma troca de gestão. Tenha sempre uma reserva financeira para lidar com os imprevistos!
 
 Decisões de negócios não devem ser tomadas com base na intuição do gestor. Reúna dados, mantenha-os organizados e peça ajuda antes de tomar decisões precipitadas. Muitas vezes, em uma empresa, um bom trabalho de gestão de pessoal e organização das contas pode significar a diferença entre lucro e prejuízo.
 
-Para saber mais, consulte os repositórios de calculo-de-mensalidades e viabilidade-de-negocio.
+No caso específico da escola, os problemas financeiros poderiam ter sido evitados simplesmente seguindo a tabela de mensalidades. Mas mesmo sem poder corrigir esse problema no meio do ano letivo, a escola teria baixo lucro, mas não teria dívida. Se o novo gestor não tivesse feito nada além de tocar o negócio como ele já estava, nenhuma dívida teria sido contraída. Nesse caso, se atentar à qualidade do serviço prestado, trabalhar para reter os alunos e atrair mais alunos para o ano segiuinte teria sido uma estratégia melhor. Empresas são invetimentos de longo prazo. É preciso estratégia e paciência para levar uma empresa ao auge da lucratividade.
 
+Funcionando em plena capacidade e com o cálculo correto de mensalidades, a escola tem potencial de gerar um alto lucro. Para saber mais, consulte os repositórios de calculo-de-mensalidades e viabilidade-de-negocio.
+
+-----------------------------------------------------------------------------
 MP-resuldados
 Dos dados aos resultados. Um pouco de física, matemática, negócios e finanças.
