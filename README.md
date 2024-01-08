@@ -1,5 +1,6 @@
 # Diagnóstico financeiro de uma escola
 
+*(repositório em construção)*
 
 
 ## Introdução
@@ -51,7 +52,7 @@ Notamos uma elevação significativa dos gastos de junho para julho. Verificamos
 
 De julho para agosto o gasto se manteve alto devido às demissões de diversos funcionários, dentre eles, o professor citado acima. Parte das recisões foi paga no mês de agosto e parte foi paga no mês de setembro.
 
-Em outubro houve uma redução de custos devido a menor quantidade de funcionário e de alunos (redução dos gastos variáveis).
+Em outubro houve uma redução de custos devido a menor quantidade de funcionários e de alunos (redução dos gastos variáveis).
 
 
 ### Receitas
@@ -94,20 +95,30 @@ Nesse ponto, a escola solicitou uma avaliação financeira da MP-resuldados para
 Depois de uma exaustiva coleta de dados financeiros, constatamos que todo o prejuízo da escola se deu por tomadas de decisão precipitadas e sem embasamento em dados. Como exemplo, a festa em julho, as demissões e descontos em agosto, e as altas retiradas de pró-labore.
 Antes de qualquer tomada de decisão em negócios, uma avaliação criteriosa deve ser feita. Não havia nenhum controle das finanças, o que impossibilitou o entendimento das finanças mês a mês. O que foi tido como prejuízo em junho, primeiro mês da nova gestão, na verdade, foi lucro! A mistura entre movimentações pessoais e da escola gerou um diagnóstico errado que motivou mais escolhas erradas, gerando um enorme ciclo de más decisões.
 
-Além das más decisões da nova gestão, verificamos que outro entrave à lucratividade do negócio era a falta de rigor em seguir a tabela de mensalidades calculada para o ano letivo. Se a tabela para 2023 tivesse sido praticada, ao invés de um prejuízo acumulado de mais de 66 mil reais, a escola poderia ter tido um lucro acumulado de mais de 52 mil reais somente nesses 5 meses analisados, mesmo considerando as altas despesas.
+Além das más decisões da nova gestão, verificamos que outro entrave à lucratividade do negócio era a falta de rigor em seguir a tabela de mensalidades calculada para o ano letivo. Se a tabela para 2023 tivesse sido praticada, ao invés de um saldo negativo de mais de 62 mil reais, a escola poderia ter tido um saldo positivo mais de 23 mil reais  nesses 5 meses analisados, mesmo considerando as decisões ruins.
 
 Com quantidade de alunos insuficiente para cobrir os custos, o prejuízo nos meses seguintes seria inevitável. Calculamos, então o valor necessário de aporte financeiro a se fazer para segurar a empresa até o fim do ano letivo. O valor foi conseguido através de um empréstimo.
 
-O papel da MP-resuldados foi entender todo o ocorrido ao longo dos meses e apresentar os dados, fatos e como eles se relacionam ao gestor. Os dados contam a história e os números não mentem! Como resultado dessa primeira análise, aconselhamos o dono a fazer um rigoroso acompanhamento das finanças do seu negócio e tomar sempre decisões baseadas em dados.
+O papel da MP-resuldados foi entender todo o ocorrido ao longo dos meses e apresentar os dados, fatos e como eles se relacionam ao gestor. Os dados contam a história e os números não mentem! Como resultado dessa primeira análise, aconselhamos o dono a criar o hábito de fazer um rigoroso acompanhamento das finanças do seu negócio e tomar sempre decisões baseadas em dados.
+
 
 ## Possíveis soluções
-
-Em uma escola onde a única receita são mensalidades, há de se ter o cuidado de preservar um número mínimo de alunos para que, pelo menos, os custos sejam cobertos. Sendo a única fonte de receita, o cálculo das mensalidades deve ser feito com extremo rigor. A lei não permite ajuste de mensalidade após a assinatura do contrato, válido para todo o ano letivo. Como esses contratos são fechados com meses de antecedência, os cálculos devem ser feitos com base em extrapolação de custos e receitas.
 
 Para recuperar o prejuízo financeiro, a MP-resuldados aconselhou o gestor a:
 - investir na melhoria dos serviços para evitar a evasão no fim do ano letivo e aumentar a retenção de alunos para o ano seguinte;
 - investir em propaganda nas redes sociais para atrair mais alunos para o ano seguinte;
 - organizar as finanças de modo a permitir um cálculo mais preciso de mensalidades para o ano seguinte.
 
+Mantendo a escola em funcionamento até o fim do ano letivo, ficaria aberta a possibilidade de vender a escola ou conseguir uma sociedade.
+
 ## Conclusão
 
+Antes de comprar um negócio, certifique-se da saúde financeira da empresa está em dia, se a possibilidade de lucro está dentro das suas expectativas e se você tem vontade de estar a frente do negócio. Se não sabe como fazer, consulte um especialista, analise os dados apesentados e tire suas próprias conclusões antes de investir seu dinheiro. 
+Tenha em mente que, mesmo um negócio consolidado no mercado pode sofrer revezes em uma troca de gestão. Tenha sempre uma reserva financeira para lidar com os imprevistos!
+
+Decisões de negócios não devem ser tomadas com base na intuição do gestor. Reúna dados, mantenha-os organizados e peça ajuda antes de tomar decisões precipitadas. Muitas vezes, em uma empresa, um bom trabalho de gestão de pessoal e organização das contas pode significar a diferença entre lucro e prejuízo.
+
+Para saber mais, consulte os repositórios de calculo-de-mensalidades e viabilidade-de-negocio.
+
+MP-resuldados
+Dos dados aos resultados. Um pouco de física, matemática, negócios e finanças.
