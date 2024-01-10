@@ -58,7 +58,7 @@ Em outubro houve uma redução de custos devido a menor quantidade de funcionár
 
 A única fonte de receitas da escola eram as mensalidades. Os valores tabelados variam de acordo com o número de horas que o aluno passa na escola. No gráfico abaixo comparamos a tabela de mensalidades proposta para o ano de 2023 com os valores efetivamente praticados no mês de agosto.
 
-![gráfico de mensalidades em função das horas de permanência na escola](/imagens/plano_de_mensalidades_antigo.png?raw=true)
+![gráfico de mensalidades em função das horas de permanência na escola](./imagens/plano_de_mensalidades_antigo.png)
 
 Devido aos descontos dados pela gestão anterior, os valores de mensalidade praticados ficaram bem abaixo do esperado. Além disso, não houve coerência na aplicação de descontos, resultando em pagamentos maiores para um menor número de horas na escola. Os responsáveis financeiros, ficando cientes da situação via grupos de WhatsApp, solicitaram reuniões com o novo gestor, que acabou por conceder mais descontos na tentativa de corrigir a situação. Não houve nehum tipo de registro dos descontos, foram acordados somente em conversa privada.
 
@@ -79,7 +79,7 @@ Vemos uma clara redução de receita em função da redução de alunos. A infor
 
 Comparando os dados de receitas e despesas apresentadas, vemos que o mês de junho apresentou um fechamento positivo. Os demais meses acumularam um prejuízo de mais de 66 mil reais. Tentamos identificar mês a mês o motivo do prejuízo. 
 
-% incluir gráfico
+![Gráfico de comparação entre receitas e despesas.](./imagens/comparacao.png)
 
 Em junho houve um saldo positivo que foi considerado abaixo da expectativa pelo dono da escola. Para reverter a situação foi feita uma festa julina sem planejamento financeiro. A festa custou mais de 10 mil reais e teve um faturamento da ordem de 3 mil reais, gerando um prejuízo de mais de 7 mil reais. Além disso, a retirada de pró-labore ocorreu sem a devida verificação das contas, gerando dívidas para a escola.
 
@@ -95,6 +95,8 @@ Depois de uma exaustiva coleta de dados financeiros, constatamos que todo o prej
 Antes de qualquer tomada de decisão em negócios, uma avaliação criteriosa deve ser feita. Não havia nenhum controle das finanças, o que impossibilitou o entendimento das finanças mês a mês. O que foi tido como prejuízo em junho, primeiro mês da nova gestão, na verdade, foi lucro! A mistura entre movimentações pessoais e da escola gerou um diagnóstico errado que motivou mais escolhas erradas, gerando um enorme ciclo de más decisões.
 
 Além das más decisões da nova gestão, verificamos que outro entrave à lucratividade do negócio era a falta de rigor em seguir a tabela de mensalidades calculada para o ano letivo. Se a tabela para 2023 tivesse sido praticada, ao invés de um saldo negativo de mais de 62 mil reais, a escola poderia ter tido um saldo positivo mais de 23 mil reais  nesses 5 meses analisados, mesmo considerando as decisões ruins.
+
+![Gráfico de comparação entre receitas e despesas com médias.](./imagens/comparacao-medias.png)
 
 Durante esses meses, o custo médio de um aluno foi perto de R$ 1700 enquanto a mensalidade paga foi em média R$ 1376. Se a tabela tivesse sendo praticada, ao invés do prejuízo de R$ 324 por mês por aluno, a escola poderia ter lucrado R$ 122 por mês por aluno. 
 
