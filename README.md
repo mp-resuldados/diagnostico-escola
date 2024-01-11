@@ -100,9 +100,14 @@ Além das más decisões da nova gestão, verificamos que outro entrave à lucra
 
 Durante esses meses, o custo médio de um aluno foi perto de R$ 1700 enquanto a mensalidade paga foi em média R$ 1376. Se a tabela tivesse sendo praticada, ao invés do prejuízo de R$ 324 por mês por aluno, a escola poderia ter lucrado R$ 122 por mês por aluno. 
 
-De posse desses dados, calculamos o número mínimo de alunos para a escola estar em equilíbrio financeiro (receitas = despesas, desconsiderando o pró-labore dos sócio). Considerando todos os meses estudados, a escola precisaria de 42 alunos para estar em equilíbrio financeiro, mesmo com as mensalidades defasadas. Desconsiderando os gastos com a festa e as demissões sem justa causa, o número de alunos para a escola estar em equilíbrio financeiro cai para 37. Considerando um cenário onde a tabela de mensalidades estivesse sendo devidamente praticada, o ponto de equilíbrio acontece com um número de alunos entre 28 e 32, representando em torno de 30% da capacidade máxima da escola.
+De posse desses dados, calculamos o número mínimo de alunos para a escola estar em equilíbrio financeiro (receitas = despesas, desconsiderando o pró-labore dos sócio). Considerando a média dos meses estudados, a escola precisaria de 42 alunos para estar em equilíbrio financeiro, mesmo com as mensalidades defasadas.
 
-Com quantidade de alunos insuficiente para cobrir os custos, o prejuízo nos meses seguintes seria inevitável. Calculamos, então o valor necessário de aporte financeiro a se fazer para segurar a empresa até o fim do ano letivo. O valor foi conseguido através de um empréstimo.
+Desconsiderando os gastos com a festa e as demissões sem justa causa, o número de alunos para a escola estar em equilíbrio financeiro cai para 36.
+
+
+Considerando um cenário onde a tabela de mensalidades estivesse sendo devidamente praticada, o ponto de equilíbrio acontece com um número de alunos entre 27 e 32, representando em torno de 30% da capacidade máxima da escola. Segue gráfico demostrativo.
+
+Com quantidade de alunos insuficiente para cobrir os custos fixos, o prejuízo nos meses seguintes seria inevitável. Calculamos, então o valor necessário de aporte financeiro a se fazer para segurar a empresa até o fim do ano letivo. O valor foi conseguido através de um empréstimo.
 
 O papel da MP-resuldados foi entender todo o ocorrido ao longo dos meses e apresentar os dados, fatos e como eles se relacionam ao gestor. Os dados contam a história e os números não mentem! Como resultado dessa primeira análise, aconselhamos o dono a criar o hábito de fazer um rigoroso acompanhamento das finanças do seu negócio e tomar sempre decisões baseadas em dados.
 
