@@ -45,7 +45,7 @@ A partir dos extratos bancários obtivemos o limite superior de gastos mensais r
 | 9     |  R$ 64.923,11 | 33 |
 | 10    |  R$ 55.771,65 | 33 |
 
-Notamos uma perda de 3 alunos entre julho e agosto. Verificamos que pertenciam a uma mesma família. Supomos que a troca de gestão tenha gerado alguma insegurança ou insatisfação, culminando no encerramento dos 3 contratos. Notamos uma segunda fuga de alunos entre os meses de agosto e setembro. Verificamos que ocorreu a demissão de um professor, que prontamente se empregou em outra escola, incorrendo em uma migração de sete alunos. A demissão ocorreu com base na necessidade de corte de gastos, sem considerar as consequências do ato. 
+Notamos uma perda de 3 alunos entre julho e agosto. Verificamos que pertenciam a uma mesma família. Supomos que a troca de gestão tenha gerado alguma insegurança ou insatisfação, culminando no encerramento dos 3 contratos. Notamos uma segunda fuga de alunos entre os meses de agosto e setembro. Verificamos que ocorreu a demissão de um professor, que prontamente se empregou em outra escola, incorrendo em uma migração de sete alunos. A demissão ocorreu com base em uma necessidade de corte de gastos, sem considerar as consequências do ato. 
 
 Notamos uma elevação significativa dos gastos de junho para julho. Verificamos que, na tentativa de melhorar a arrecadação da escola, foi feita uma festa julina. Dada a falta de planejamento prévio, a festa gerou um prejuízo de mais de 7 mil reais.
 
@@ -100,14 +100,13 @@ Além das más decisões da nova gestão, verificamos que outro entrave à lucra
 
 Durante esses meses, o custo médio de um aluno foi perto de R$ 1700 enquanto a mensalidade paga foi em média R$ 1376. Se a tabela tivesse sendo praticada, ao invés do prejuízo de R$ 324 por mês por aluno, a escola poderia ter lucrado R$ 122 por mês por aluno. 
 
-De posse desses dados, calculamos o número mínimo de alunos para a escola estar em equilíbrio financeiro (receitas = despesas, desconsiderando o pró-labore dos sócio). Considerando a média dos meses estudados, a escola precisaria de 42 alunos para estar em equilíbrio financeiro, mesmo com as mensalidades defasadas.
+De posse desses dados, calculamos o número mínimo de alunos para a escola estar em equilíbrio financeiro (receitas = despesas, desconsiderando o pró-labore do sócio). Considerando a média dos meses estudados, a escola precisaria de 42 alunos para estar em equilíbrio financeiro, mesmo com as mensalidades defasadas. 
 
-Desconsiderando os gastos com a festa e as demissões sem justa causa, o número de alunos para a escola estar em equilíbrio financeiro cai para 36.
+![Gráfico do ponto equilíbrio financeiro considerando as despesas e receitas médias do 5 meses estudados.](./imagens/ponto-de-equilibrio-1.png)
+ 
+Desconsiderando os gastos com a festa e as demissões sem justa causa, o número de alunos para a escola estar em equilíbrio financeiro cai para 36. Considerando um cenário onde a tabela de mensalidades estivesse sendo devidamente praticada, o ponto de equilíbrio acontece com um número de alunos entre 27 e 32, representando em torno de 30% da capacidade máxima da escola.
 
-
-Considerando um cenário onde a tabela de mensalidades estivesse sendo devidamente praticada, o ponto de equilíbrio acontece com um número de alunos entre 27 e 32, representando em torno de 30% da capacidade máxima da escola. Segue gráfico demostrativo.
-
-Com quantidade de alunos insuficiente para cobrir os custos fixos, o prejuízo nos meses seguintes seria inevitável. Calculamos, então o valor necessário de aporte financeiro a se fazer para segurar a empresa até o fim do ano letivo. O valor foi conseguido através de um empréstimo.
+Com quantidade de alunos insuficiente para cobrir os custos fixos, o prejuízo nos meses seguintes seria inevitável. Calculamos, então o valor necessário de aporte financeiro a se fazer para segurar a empresa até o fim do ano letivo. O valor foi conseguido através de um empréstimo. Estratégias inteligentes de redução de despesas foram sugeridas, como migração de banco para redução das taxas bancárias, adoção de um único sistema contábil gratuito e troca de fornecedores. As medidas simples tinham potencial de reduzir em mais de 10% o empréstimo necessário.
 
 O papel da MP-resuldados foi entender todo o ocorrido ao longo dos meses e apresentar os dados, fatos e como eles se relacionam ao gestor. Os dados contam a história e os números não mentem! Como resultado dessa primeira análise, aconselhamos o dono a criar o hábito de fazer um rigoroso acompanhamento das finanças do seu negócio e tomar sempre decisões baseadas em dados.
 
@@ -127,7 +126,7 @@ Antes de comprar um negócio, certifique-se da saúde financeira da empresa est�
 
 Decisões de negócios não devem ser tomadas com base na intuição do gestor. Reúna dados, mantenha-os organizados e peça ajuda antes de tomar decisões precipitadas. Muitas vezes, em uma empresa, um bom trabalho de gestão de pessoal e organização das contas pode significar a diferença entre lucro e prejuízo.
 
-No caso específico da escola, os problemas financeiros poderiam ter sido evitados simplesmente seguindo a tabela de mensalidades. Mas mesmo sem poder corrigir esse problema no meio do ano letivo, a escola teria baixo lucro, mas não teria dívida. Se o novo gestor não tivesse feito nada além de tocar o negócio como ele já estava, nenhuma dívida teria sido contraída. Nesse caso, se atentar à qualidade do serviço prestado, trabalhar para reter os alunos e atrair mais alunos para o ano segiuinte teria sido uma estratégia melhor. Empresas são invetimentos de longo prazo. É preciso estratégia e paciência para levar uma empresa ao auge da lucratividade.
+No caso específico da escola, os problemas financeiros poderiam ter sido evitados simplesmente seguindo a tabela de mensalidades. Mas mesmo sem poder corrigir esse problema no meio do ano letivo, a escola teria baixo lucro, mas não teria dívida. Se o novo gestor não tivesse feito nada além de tocar o negócio como ele já estava, nenhuma dívida teria sido contraída. Nesse caso, se atentar à qualidade do serviço prestado, trabalhar para reter os alunos e atrair mais alunos para o ano segiuinte teria sido uma estratégia melhor. Empresas são investimentos de longo prazo. É preciso estratégia e paciência para levar uma empresa ao auge da lucratividade.
 
 Funcionando em plena capacidade e com o cálculo correto de mensalidades, a escola tem potencial de gerar um alto lucro. Para saber mais, consulte os repositórios de calculo-de-mensalidades e viabilidade-de-negocio.
 
