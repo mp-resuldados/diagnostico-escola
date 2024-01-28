@@ -45,7 +45,7 @@ A partir dos extratos bancários obtivemos o limite superior de gastos mensais r
 | 9     |  R$ 64.923,11 | 33 |
 | 10    |  R$ 55.771,65 | 33 |
 
-Notamos uma perda de 3 alunos entre julho e agosto. Verificamos que pertenciam a uma mesma família. Supomos que a troca de gestão tenha gerado alguma insegurança ou insatisfação, culminando no encerramento dos 3 contratos. Notamos uma segunda fuga de alunos entre os meses de agosto e setembro. Verificamos que ocorreu a demissão de um professor, que prontamente se empregou em outra escola, incorrendo em uma migração de sete alunos. A demissão ocorreu com base em uma necessidade de corte de gastos, sem considerar as consequências do ato. 
+Notamos uma perda de 3 alunos entre julho e agosto. Verificamos que pertenciam a uma mesma família. Supomos que a troca de gestão tenha gerado alguma insegurança ou insatisfação, culminando no encerramento dos 3 contratos. Notamos uma segunda fuga de alunos entre os meses de agosto e setembro. Verificamos que ocorreu a demissão de um professor, que prontamente se empregou em outra escola, incorrendo na migração de alguns alunos. A demissão ocorreu com base em uma necessidade de corte de gastos, sem considerar as consequências do ato. 
 
 Notamos uma elevação significativa dos gastos de junho para julho. Verificamos que, na tentativa de melhorar a arrecadação da escola, foi feita uma festa julina. Dada a falta de planejamento prévio, a festa gerou um prejuízo de mais de 7 mil reais.
 
@@ -56,7 +56,7 @@ Em outubro houve uma redução de custos devido a menor quantidade de funcionár
 
 ### Receitas
 
-A única fonte de receitas da escola eram as mensalidades. Os valores tabelados variam de acordo com o número de horas que o aluno passa na escola. No gráfico abaixo comparamos a tabela de mensalidades proposta para o ano de 2023 com os valores efetivamente praticados no mês de agosto.
+A única fonte de receitas da escola eram as mensalidades. Os valores tabelados variam de acordo com o número de horas que o aluno passa na escola. No gráfico abaixo comparamos a tabela de mensalidades proposta para o ano de 2023 (em verde) com os valores efetivamente praticados no mês de agosto (em azul).
 
 ![gráfico de mensalidades em função das horas de permanência na escola](./imagens/plano_de_mensalidades_antigo.png)
 
@@ -72,7 +72,7 @@ Na tabela abaixo, vemos o resultado das receitas de mensalidade mês a mês, ond
 | 9     |  R$ 40.786,87 | 33 |
 | 10    |  R$ 40.786,87 | 33 |
 
-Vemos uma clara redução de receita em função da redução de alunos. A informação não óbvia contida na tabela é a redução de receita devido aos descontos. Essa análie foi feita comparando os valores pagos de mensalidade de agosto e setembro aluno por aluno. A receita total da escola diminuiu em quase 30% entre agosto e setembro. Desse percentual, 40% foi devido aos descontos dados e 60% devido à redução no número de alunos.
+Vemos uma clara redução de receita em função da redução de alunos. A informação não óbvia contida na tabela é a redução de receita devido aos descontos. Essa análise foi feita comparando os valores pagos de mensalidade de agosto e setembro aluno por aluno. A receita total da escola diminuiu em quase 30% entre agosto e setembro. Desse percentual, 40% foi devido aos descontos dados e 60% devido à redução no número de alunos.
 
 
 ### Receitas x despesas - Lucro ou prejuízo?
@@ -81,7 +81,7 @@ Comparando os dados de receitas e despesas apresentadas, vemos que o mês de jun
 
 ![Gráfico de comparação entre receitas e despesas.](./imagens/comparacao.png)
 
-Em junho houve um saldo positivo que foi considerado abaixo da expectativa pelo dono da escola. Para reverter a situação foi feita uma festa julina sem planejamento financeiro. A festa custou mais de 10 mil reais e teve um faturamento da ordem de 3 mil reais, gerando um prejuízo de mais de 7 mil reais. Além disso, a retirada de pró-labore ocorreu sem a devida verificação das contas, gerando dívidas para a escola.
+Em junho houve um saldo positivo que foi entendido como prejuízo pelo dono da escola (total desorganização das contas!). Para reverter a situação (que não existia) foi feita uma festa julina sem planejamento financeiro. A festa custou mais de 10 mil reais e teve um faturamento da ordem de 3 mil reais, gerando um prejuízo de mais de 7 mil reais. Além disso, a retirada de pró-labore ocorreu sem a devida verificação das contas, gerando dívidas para a escola.
 
 Contando apenas com os dados de saldos bancários e sem a devida separação entre gastos pessoais e empresariais, o dono viu como alternativa óbvia o corte imediato de gastos. Na tentativa de reduzir os custos, foram feitas diversas demissões no mês de agosto, gerando um alto custo com as recisões que foram pagas parte em agosto e parte em setembro. As demissões sem justa causa foram feitas de forma arbitrária e geraram desconforto e insegurança entre os funcionários e responsáveis financeiros. Além disso, a qualidade do serviço foi seriamente afetada, principalmente pelo fato de haver poucos funcionários disponíveis em horários de alta demanda de alunos. Como consequência de todos os fatos citados, vários alunos optaram por encerrar seus contratos prematuramente. Como não havia nenhum controle das finanças, nenhuma multa de recisão contratual foi paga, apesar de prevista em contrato. 
 
@@ -113,12 +113,13 @@ O papel da MP-resuldados foi entender todo o ocorrido ao longo dos meses e apres
 
 ## Possíveis soluções
 
-Para recuperar o prejuízo financeiro, a MP-resuldados aconselhou o gestor a:
-- investir na melhoria dos serviços para evitar a evasão no fim do ano letivo e aumentar a retenção de alunos para o ano seguinte;
-- investir em propaganda nas redes sociais para atrair mais alunos para o ano seguinte;
-- organizar as finanças de modo a permitir um cálculo mais preciso de mensalidades para o ano seguinte.
+Para recuperar o prejuízo financeiro, a MP-resuldados aconselhou o gestor a tomar algumas atitudes para o ano seguinte:
+- investir na melhoria dos serviços para evitar a evasão no fim do ano letivo e aumentar a retenção de alunos (possível simplesmente com uma gestão de pessoal adequada, custo zero);
+- investir em propaganda nas redes sociais para atrair novos alunos (baixíssimo custo e ótimo potencial de retorno);
+- organizar as finanças de modo a permitir um cálculo mais preciso de mensalidades;
+- seguir o plano financeiro (eis o mais importante!)
 
-Mantendo a escola em funcionamento até o fim do ano letivo, ficaria aberta a possibilidade de vender a escola ou conseguir uma sociedade.
+Mantendo a escola em funcionamento até o fim do ano letivo, ficaria aberta a possibilidade de vender a escola ou conseguir uma sociedade (houve interessados que desistiram ao ver o livro contábil - ou a falta dele).
 
 ## Conclusão
 
@@ -126,7 +127,7 @@ Antes de comprar um negócio, certifique-se da saúde financeira da empresa est�
 
 Decisões de negócios não devem ser tomadas com base na intuição do gestor. Reúna dados, mantenha-os organizados e peça ajuda antes de tomar decisões precipitadas. Muitas vezes, em uma empresa, um bom trabalho de gestão de pessoal e organização das contas pode significar a diferença entre lucro e prejuízo.
 
-No caso específico da escola, os problemas financeiros poderiam ter sido evitados simplesmente seguindo a tabela de mensalidades. Mas mesmo sem poder corrigir esse problema no meio do ano letivo, a escola teria baixo lucro, mas não teria dívida. Se o novo gestor não tivesse feito nada além de tocar o negócio como ele já estava, nenhuma dívida teria sido contraída. Nesse caso, se atentar à qualidade do serviço prestado, trabalhar para reter os alunos e atrair mais alunos para o ano segiuinte teria sido uma estratégia melhor. Empresas são investimentos de longo prazo. É preciso estratégia e paciência para levar uma empresa ao auge da lucratividade.
+No caso específico da escola, os problemas financeiros poderiam ter sido evitados simplesmente seguindo a tabela de mensalidades. Mas mesmo sem poder corrigir esse problema no meio do ano letivo, a escola poderia ter tido um baixo lucro até o fim do ano, mas não teria acumulado dívidas. Se o novo gestor não tivesse feito nada além de tocar o negócio como ele já estava, nenhuma dívida teria sido contraída. Nesse caso, se atentar à qualidade do serviço prestado, trabalhar para reter os alunos e atrair mais alunos para o ano segiuinte teria sido uma estratégia melhor. Empresas são investimentos de longo prazo. É preciso estratégia e paciência para levar uma empresa ao auge da lucratividade.
 
 Funcionando em plena capacidade e com o cálculo correto de mensalidades, a escola tem potencial de gerar um alto lucro. Para saber mais, consulte os repositórios de calculo-de-mensalidades e viabilidade-de-negocio.
 
