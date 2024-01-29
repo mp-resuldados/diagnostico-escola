@@ -15,7 +15,7 @@ Neste trabalho podemos ver como uma decisão baseada em dados pode afetar a saú
 - investigar as possíveis causas do prejuízo financeiro dos últimos 5 meses (junho a outubro de 2023);
 - criar um plano de recuperação financeira através do cálculo das mensalidades para o ano seguinte (2024) de forma a cobrir os custos e manter valores atrativos para ganhar da concorrência;
 - preparar a escola para uma possível venda;
-- criar um plano para atrair investidores.
+- criar um plano para atrair possíveis sócios.
 
 ## Dados
 
@@ -25,7 +25,9 @@ Os dados disponíveis para a avaliação foram:
 - tabela com nome dos alunos, turma a qual pertence, horários de entrada e saída e valores de mensalidade pagos;
 - extratos bancário das duas contas PJ dos 5 meses anteriores (junho a outubro de 2023).
 
-Não havia dados financeiros disponíveis dos meses anteriores a junho. Dois programas de contabilidade estavam sendo usados pela nova gestão, porém os registros não estavam sendo feitos de forma adequada. As movimentações pessoais e empresariais do novo dono não estavam devidamente identificadas e separadas. Para conhecer as despesas da escola, classificamos os dados de movimentação bancária como gastos pessoais ou gastos da escola. Os dados que não conseguimos classificar foram computados como gastos da escola com a finalidade de obter um limite superior de gastos.
+Não havia dados financeiros disponíveis dos meses anteriores a junho. Dois programas de contabilidade estavam sendo usados pela nova gestão, porém os registros não estavam sendo feitos de forma adequada. As movimentações pessoais e empresariais do novo dono não estavam devidamente identificadas e separadas.
+
+Para conhecer as despesas da escola, classificamos os dados de movimentação bancária como gastos pessoais ou gastos da escola. Os dados que não conseguimos classificar foram computados como gastos da escola com a finalidade de obter um limite superior de gastos.
 
 Os valores da tabela de mensalidades não foram praticados desde o início do ano letivo. A gestão anterior à compra forneceu descontos de mensalidades indiscriminadamente e sem alteração formal  no contrato. Os dados de mensalidades efetivamente pagas pelos alunos foram retirados dos extratos bancários, comprovantes de pix e registros informais no computador da escola. Não havia nenhum controle da taxa de inadimplência.
 
@@ -60,7 +62,7 @@ A única fonte de receitas da escola eram as mensalidades. Os valores tabelados 
 
 ![gráfico de mensalidades em função das horas de permanência na escola](./imagens/plano_de_mensalidades_antigo.png)
 
-Devido aos descontos dados pela gestão anterior, os valores de mensalidade praticados ficaram bem abaixo do esperado. Além disso, não houve coerência na aplicação de descontos, resultando em pagamentos maiores para um menor número de horas na escola. Os responsáveis financeiros, ficando cientes da situação via grupos de WhatsApp, solicitaram reuniões com o novo gestor, que acabou por conceder mais descontos na tentativa de corrigir a situação. Não houve nehum tipo de registro dos descontos, foram acordados somente em conversa privada.
+Devido aos descontos dados pela gestão anterior, os valores de mensalidade praticados ficaram bem abaixo do esperado. Não houve coerência na aplicação de descontos, resultando em pagamentos maiores para um menor número de horas na escola. Além disso, alunos de uma mesma turma, frequentando a escola pelo mesmo número de horas, chegaram a ter mais de 40% de diferença na mensalidade paga. Os responsáveis financeiros, ficando cientes da situação via grupos de WhatsApp, solicitaram reuniões com o novo gestor, que acabou por conceder mais descontos na tentativa de corrigir a situação. Não houve nehum tipo de registro dos descontos, foram acordados somente em conversa privada.
 
 Na tabela abaixo, vemos o resultado das receitas de mensalidade mês a mês, onde N é o número de alunos. Como não havia controle de inadimplência, os dados de receita foram calculados como se a inadimplência fosse 0.
 
@@ -72,7 +74,7 @@ Na tabela abaixo, vemos o resultado das receitas de mensalidade mês a mês, ond
 | 9     |  R$ 40.786,87 | 33 |
 | 10    |  R$ 40.786,87 | 33 |
 
-Vemos uma clara redução de receita em função da redução de alunos. A informação não óbvia contida na tabela é a redução de receita devido aos descontos. Essa análise foi feita comparando os valores pagos de mensalidade de agosto e setembro aluno por aluno. A receita total da escola diminuiu em quase 30% entre agosto e setembro. Desse percentual, 40% foi devido aos descontos dados e 60% devido à redução no número de alunos.
+Vemos uma clara redução de receita em função da redução de alunos. A informação não óbvia contida na tabela é a redução de receita devido aos descontos. Essa análise foi feita comparando os valores pagos de mensalidade de agosto e setembro aluno por aluno. A receita total da escola diminuiu quase 30% de um mês para o outro. Desse percentual, 40% foi devido aos descontos dados e 60% devido à redução no número de alunos.
 
 
 ### Receitas x despesas - Lucro ou prejuízo?
@@ -91,10 +93,11 @@ Nesse ponto, a escola solicitou uma avaliação financeira da MP-resuldados para
 
 ## Diagnóstico
 
-Depois de uma exaustiva coleta de dados financeiros, constatamos que todo o prejuízo da escola se deu por tomadas de decisão precipitadas e sem embasamento em dados. Como exemplo, a festa em julho, as demissões e descontos em agosto, e as altas retiradas de pró-labore.
-Antes de qualquer tomada de decisão em negócios, uma avaliação criteriosa deve ser feita. Não havia nenhum controle das finanças, o que impossibilitou o entendimento das finanças mês a mês. O que foi tido como prejuízo em junho, primeiro mês da nova gestão, na verdade, foi lucro! A mistura entre movimentações pessoais e da escola gerou um diagnóstico errado que motivou mais escolhas erradas, gerando um enorme ciclo de más decisões.
+Depois de uma exaustiva coleta de dados financeiros, constatamos que todo o prejuízo da escola se deu por tomadas de decisão precipitadas e sem embasamento em dados. Como exemplo, a festa em julho, as demissões e descontos em agosto e as altas retiradas de pró-labore.
 
-Além das más decisões da nova gestão, verificamos que outro entrave à lucratividade do negócio era a falta de rigor em seguir a tabela de mensalidades calculada para o ano letivo. Se a tabela para 2023 tivesse sido praticada, ao invés de um saldo negativo de mais de 62 mil reais, a escola poderia ter tido um saldo positivo mais de 23 mil reais  nesses 5 meses analisados, mesmo considerando as decisões ruins.
+Antes de qualquer tomada de decisão em negócios, uma avaliação criteriosa deve ser feita. Não havia nenhum controle das finanças, o que impossibilitou o entendimento das finanças mês a mês. O que foi tido como prejuízo em junho, primeiro mês da nova gestão, na verdade, foi lucro! A mistura entre movimentações pessoais e da escola gerou um diagnóstico errado que motivou escolhas erradas, gerando um enorme ciclo de más decisões.
+
+Além das más decisões da nova gestão, verificamos que outro entrave à lucratividade do negócio era a falta de rigor em seguir a tabela de mensalidades calculada para o ano letivo. Se a tabela para 2023 tivesse sido praticada, ao invés de um saldo negativo de mais de 62 mil reais, a escola poderia ter tido um saldo positivo de mais de 23 mil reais  nesses 5 meses analisados, mesmo considerando as decisões ruins.
 
 ![Gráfico de comparação entre receitas e despesas com médias.](./imagens/comparacao-medias.png)
 
@@ -114,12 +117,12 @@ O papel da MP-resuldados foi entender todo o ocorrido ao longo dos meses e apres
 ## Possíveis soluções
 
 Para recuperar o prejuízo financeiro, a MP-resuldados aconselhou o gestor a tomar algumas atitudes para o ano seguinte:
-- investir na melhoria dos serviços para evitar a evasão no fim do ano letivo e aumentar a retenção de alunos (possível simplesmente com uma gestão de pessoal adequada, custo zero);
+- investir na melhoria dos serviços para evitar a evasão no fim do ano letivo e aumentar a retenção de alunos (possível simplesmente com uma gestão de pessoal adequada a custo zero);
 - investir em propaganda nas redes sociais para atrair novos alunos (baixíssimo custo e ótimo potencial de retorno);
 - organizar as finanças de modo a permitir um cálculo mais preciso de mensalidades;
 - seguir o plano financeiro (eis o mais importante!)
 
-Mantendo a escola em funcionamento até o fim do ano letivo, ficaria aberta a possibilidade de vender a escola ou conseguir uma sociedade (houve interessados que desistiram ao ver o livro contábil - ou a falta dele).
+Mantendo a escola em funcionamento até o fim do ano letivo, ficaria aberta a possibilidade de vender a escola ou conseguir uma sociedade (houve interessados que desistiram ao ver o livro contábil - ou a falta dele). 
 
 ## Conclusão
 
@@ -133,4 +136,5 @@ Funcionando em plena capacidade e com o cálculo correto de mensalidades, a esco
 
 -----------------------------------------------------------------------------
 MP-resuldados
+
 Dos dados aos resultados. Um pouco de física, matemática, negócios e finanças.
