@@ -1,8 +1,5 @@
 # Diagnóstico financeiro de uma escola
 
-*(repositório em construção)*
-
-
 ## Introdução
 
 Uma escola de período integral recém comprada e prestes a fechar as portas solicitou uma avaliação das finanças para guiar uma tomada de decisão: fechar, vender ou investir.
