@@ -96,7 +96,7 @@ Antes de qualquer tomada de decisão em negócios, uma avaliação criteriosa de
 
 Além das más decisões da nova gestão, verificamos que outro entrave à lucratividade do negócio era a falta de rigor em seguir a tabela de mensalidades calculada para o ano letivo. Se a tabela para 2023 tivesse sido praticada, ao invés de um saldo negativo de mais de 62 mil reais, a escola poderia ter tido um saldo positivo de mais de 23 mil reais  nesses 5 meses analisados, mesmo considerando as decisões ruins.
 
-![Gráfico de comparação entre receitas e despesas com médias.](./imagens/comparacao-medias.png)
+![Gráfico de comparação entre receitas e despesas com médias.](./imagens/comparacao-medias_2.png)
 
 Durante esses meses, o custo médio de um aluno foi perto de R$ 1700 enquanto a mensalidade paga foi em média R$ 1376. Se a tabela tivesse sendo praticada, ao invés do prejuízo de R$ 324 por mês por aluno, a escola poderia ter lucrado R$ 122 por mês por aluno. 
 
